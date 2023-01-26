@@ -9,6 +9,6 @@ public class C09 {
     }
 
     private void C09(int a, String...b) {
-        System.out.println(b[b.length-a]+" ");
+        System.out.print(b[b.length-a]+" ");
     }
 }
