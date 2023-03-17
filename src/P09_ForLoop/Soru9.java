@@ -1,4 +1,4 @@
-package P9_ForLoop;
+package P09_ForLoop;
 
 import java.util.Scanner;
 

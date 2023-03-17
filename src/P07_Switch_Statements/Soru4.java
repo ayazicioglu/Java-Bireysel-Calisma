@@ -1,4 +1,4 @@
-package P7_Switch_Statements;
+package P07_Switch_Statements;
 
 import java.util.Scanner;
 

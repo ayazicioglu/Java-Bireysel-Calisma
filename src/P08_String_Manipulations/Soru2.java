@@ -1,6 +1,4 @@
-package P8_String_Manipulations;
-
-import java.util.Scanner;
+package P08_String_Manipulations;
 
 public class Soru2 {
     public static void main(String[] args) {

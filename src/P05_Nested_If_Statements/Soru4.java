@@ -1,4 +1,4 @@
-package P5_Nested_If_Statements;
+package P05_Nested_If_Statements;
 
 import java.util.Scanner;
 

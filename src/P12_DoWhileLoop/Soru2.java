@@ -16,24 +16,25 @@ public class Soru2 {
                 if (!(sifre.charAt(i)>=32 && sifre.charAt(i)<=64)){
                     System.out.println("Şifre özel karakter içermelidir");
                     sayac++;
-
+                    break;
 
                 }  if (!(sifre.charAt(i)>=65 && sifre.charAt(i)<=90)) {
                     System.out.println("Şifre büyük harf içermelidir");
+                    System.out.println(sifre.charAt(i));
                     sayac++;
-
+                    break;
 
                 }  if (!(sifre.charAt(i)>=97 && sifre.charAt(i)<=122)) {
                     System.out.println("Şifre küçük harf içermelidir");
                     sayac++;
-
+                    break;
 
                 }  if (sifre.length()<8) {
                     System.out.println("Şifre en az 8 karakter olmalıdır");
                     sayac++;
-
+                    break;
                 }
-                break;
+
             }
             if (sayac==0){
             System.out.println("ŞİFRENİZ KABUL EDİLMİŞTİR");}

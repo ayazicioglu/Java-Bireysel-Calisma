@@ -1,4 +1,4 @@
-package P9_ForLoop;
+package P09_ForLoop;
 
 public class Soru1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package P6_Ternary_Operator;
+package P06_Ternary_Operator;
 
 import java.util.Scanner;
 
